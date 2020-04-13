@@ -1,0 +1,1 @@
+# slicing-one-image-into-many-parts
